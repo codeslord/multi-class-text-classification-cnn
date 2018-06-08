@@ -1,0 +1,366 @@
+,element,full
+0,None,Doctype        
+1,html,"Tag     Login | Salesforcehtml{visibility: hidden;}a{color:#0070d2;}body{background-color:#F4F6F9;}#content,.container{background-color:#ffffff;}#header{color:#16325c;}body{display: table; width:100%;}#content{margin-bottom:24px;}#wrap{height:100%;} html { visibility: hidden; } if (self == top) {document.documentElement.style.visibility = 'visible';} else {document.write = ''; top.location = self.location; setTimeout(function(){document.body.innerHTML='';}, 1);window.self.onload=function(evt){document.body.innerHTML='';};}var SFDCSessionVars={""server"":""https:\/\/test.salesforce.com\/login\/sessionserver212.html"",""im"":false,""ah"":""active"",""save"":""Save"",""saveOne"":""Save 1 Change"",""sum"":""#p# Saved Usernames"",""iaac"":false,""hac"":""Choose a Username"",""suo"":""1 Saved Username"",""title"":"" | Salesforce"",""saveMany"":""Save #p# Changes"",""lpt"":""Login"",""lllbl"":""Lightning Login"",""host"":""test.salesforce.com"",""le"":false,""heu"":""Edit Username List"",""ic"":false,""lh"":false,""hidp"":""Log In Using"",""ih"":""inactive"",""dc"":""Username removed. Click Save to Commit Changes.""};LoginHint.hideLoginForm();Edit ListSaveCancel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+UsernamePassword Caps Lock is on.Remember meForgot Your Password?Use Custom DomainTo go to your company's login page, enter the custom domain name.Custom Domainhttps://domain.my.salesforce.comContinueBackLog In with a Different Username© 2018 salesforce.com, inc. All rights reserved. | PrivacyLoginLoginHint.getSavedIdentities(false);function handleLogin(){document.login.un.value=document.login.username.value;document.login.width.value=screen.width;document.login.height.value=screen.height;}function lazyload(){document.getElementById(""pwcapsicon"").src=""/img/icon/capslock_blue.png"";document.getElementById(""marketing"").src=""https://c.salesforce.com/login-messages/promos.html"";}loader(); /html"
+2,head,"Tag     Login | Salesforcehtml{visibility: hidden;}a{color:#0070d2;}body{background-color:#F4F6F9;}#content,.container{background-color:#ffffff;}#header{color:#16325c;}body{display: table; width:100%;}#content{margin-bottom:24px;}#wrap{height:100%;} html { visibility: hidden; } if (self == top) {document.documentElement.style.visibility = 'visible';} else {document.write = ''; top.location = self.location; setTimeout(function(){document.body.innerHTML='';}, 1);window.self.onload=function(evt){document.body.innerHTML='';};}var SFDCSessionVars={""server"":""https:\/\/test.salesforce.com\/login\/sessionserver212.html"",""im"":false,""ah"":""active"",""save"":""Save"",""saveOne"":""Save 1 Change"",""sum"":""#p# Saved Usernames"",""iaac"":false,""hac"":""Choose a Username"",""suo"":""1 Saved Username"",""title"":"" | Salesforce"",""saveMany"":""Save #p# Changes"",""lpt"":""Login"",""lllbl"":""Lightning Login"",""host"":""test.salesforce.com"",""le"":false,""heu"":""Edit Username List"",""ic"":false,""lh"":false,""hidp"":""Log In Using"",""ih"":""inactive"",""dc"":""Username removed. Click Save to Commit Changes.""};LoginHint.hideLoginForm(); /html/head"
+3,meta,Tag       /html/head/meta
+4,meta,Tag       /html/head/meta[2]
+5,title,Tag     Login | Salesforce /html/head/title
+6,None,NavigableString        
+7,meta,Tag       /html/head/meta[3]
+8,link,Tag       /html/head/link
+9,style,"Tag     html{visibility: hidden;}a{color:#0070d2;}body{background-color:#F4F6F9;}#content,.container{background-color:#ffffff;}#header{color:#16325c;}body{display: table; width:100%;}#content{margin-bottom:24px;}#wrap{height:100%;} /html/head/style"
+10,None,NavigableString        
+11,style,Tag      html { visibility: hidden; }  /html/head/style[2]
+12,None,NavigableString        
+13,script,"Tag     if (self == top) {document.documentElement.style.visibility = 'visible';} else {document.write = ''; top.location = self.location; setTimeout(function(){document.body.innerHTML='';}, 1);window.self.onload=function(evt){document.body.innerHTML='';};} /html/head/script"
+14,None,NavigableString        
+15,script,"Tag     var SFDCSessionVars={""server"":""https:\/\/test.salesforce.com\/login\/sessionserver212.html"",""im"":false,""ah"":""active"",""save"":""Save"",""saveOne"":""Save 1 Change"",""sum"":""#p# Saved Usernames"",""iaac"":false,""hac"":""Choose a Username"",""suo"":""1 Saved Username"",""title"":"" | Salesforce"",""saveMany"":""Save #p# Changes"",""lpt"":""Login"",""lllbl"":""Lightning Login"",""host"":""test.salesforce.com"",""le"":false,""heu"":""Edit Username List"",""ic"":false,""lh"":false,""hidp"":""Log In Using"",""ih"":""inactive"",""dc"":""Username removed. Click Save to Commit Changes.""}; /html/head/script[2]"
+16,None,NavigableString        
+17,script,Tag       /html/head/script[3]
+18,script,Tag       /html/head/script[4]
+19,script,Tag     LoginHint.hideLoginForm(); /html/head/script[5]
+20,None,NavigableString        
+21,link,Tag       /html/head/link[2]
+22,link,Tag       /html/head/link[3]
+23,link,Tag       /html/head/link[4]
+24,link,Tag       /html/head/link[5]
+25,link,Tag       /html/head/link[6]
+26,link,Tag       /html/head/link[7]
+27,link,Tag       /html/head/link[8]
+28,link,Tag       /html/head/link[9]
+29,link,Tag       /html/head/link[10]
+30,link,Tag       /html/head/link[11]
+31,link,Tag       /html/head/link[12]
+32,link,Tag       /html/head/link[13]
+33,link,Tag       /html/head/link[14]
+34,link,Tag       /html/head/link[15]
+35,link,Tag       /html/head/link[16]
+36,link,Tag       /html/head/link[17]
+37,link,Tag       /html/head/link[18]
+38,link,Tag       /html/head/link[19]
+39,link,Tag       /html/head/link[20]
+40,link,Tag       /html/head/link[21]
+41,link,Tag       /html/head/link[22]
+42,link,Tag       /html/head/link[23]
+43,link,Tag       /html/head/link[24]
+44,link,Tag       /html/head/link[25]
+45,link,Tag       /html/head/link[26]
+46,body,"Tag     Edit ListSaveCancel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+UsernamePassword Caps Lock is on.Remember meForgot Your Password?Use Custom DomainTo go to your company's login page, enter the custom domain name.Custom Domainhttps://domain.my.salesforce.comContinueBackLog In with a Different Username© 2018 salesforce.com, inc. All rights reserved. | PrivacyLoginLoginHint.getSavedIdentities(false);function handleLogin(){document.login.un.value=document.login.username.value;document.login.width.value=screen.width;document.login.height.value=screen.height;}function lazyload(){document.getElementById(""pwcapsicon"").src=""/img/icon/capslock_blue.png"";document.getElementById(""marketing"").src=""https://c.salesforce.com/login-messages/promos.html"";}loader(); /html/body"
+47,div,"Tag left pr Edit ListSaveCancel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+UsernamePassword Caps Lock is on.Remember meForgot Your Password?Use Custom DomainTo go to your company's login page, enter the custom domain name.Custom Domainhttps://domain.my.salesforce.comContinueBackLog In with a Different Username© 2018 salesforce.com, inc. All rights reserved. | Privacy /html/body/div"
+48,div,"Tag wrap   Edit ListSaveCancel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+UsernamePassword Caps Lock is on.Remember meForgot Your Password?Use Custom DomainTo go to your company's login page, enter the custom domain name.Custom Domainhttps://domain.my.salesforce.comContinueBackLog In with a Different Username /html/body/div/div"
+49,div,"Tag main   Edit ListSaveCancel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+UsernamePassword Caps Lock is on.Remember meForgot Your Password?Use Custom DomainTo go to your company's login page, enter the custom domain name.Custom Domainhttps://domain.my.salesforce.comContinueBackLog In with a Different Username /html/body/div/div/div"
+50,div,"Tag wrapper   Edit ListSaveCancel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+UsernamePassword Caps Lock is on.Remember meForgot Your Password?Use Custom DomainTo go to your company's login page, enter the custom domain name.Custom Domainhttps://domain.my.salesforce.comContinueBackLog In with a Different Username /html/body/div/div/div/div"
+51,div,Tag logo_wrapper standard_logo_wrapper  mb24   /html/body/div/div/div/div/div
+52,h1,Tag       /html/body/div/div/div/div/div/h1
+53,img,Tag logo standard_logo   /html/body/div/div/div/div/div/h1/img
+54,h2,Tag header mb12   /html/body/div/div/div/div/h2
+55,div,"Tag content   Edit ListSaveCancel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+UsernamePassword Caps Lock is on.Remember meForgot Your Password?Use Custom DomainTo go to your company's login page, enter the custom domain name.Custom Domainhttps://domain.my.salesforce.comContinueBack /html/body/div/div/div/div/div[2]"
+56,div,Tag chooser   Edit List /html/body/div/div/div/div/div[2]/div
+57,div,Tag chooser_error loginError   /html/body/div/div/div/div/div[2]/div/div
+58,div,Tag     Edit List /html/body/div/div/div/div/div[2]/div/div[2]
+59,span,Tag chooser_label label   /html/body/div/div/div/div/div[2]/div/div[2]/span
+60,a,Tag edit fr  small Edit List /html/body/div/div/div/div/div[2]/div/div[2]/a
+61,None,NavigableString        
+62,div,Tag   scrollable  mt8   /html/body/div/div/div/div/div[2]/div/div[3]
+63,ul,Tag idlist     /html/body/div/div/div/div/div[2]/div/div[3]/ul
+64,div,Tag manager   SaveCancel /html/body/div/div/div/div/div[2]/div[2]
+65,div,Tag   nonscrollable  mt8   /html/body/div/div/div/div/div[2]/div[2]/div
+66,ul,Tag editlist mb24   /html/body/div/div/div/div/div[2]/div[2]/div/ul
+67,div,Tag   mt16 SaveCancel /html/body/div/div/div/div/div[2]/div[2]/div[2]
+68,button,Tag hint_save_edit button  primary  fiftyfifty  right Save /html/body/div/div/div/div/div[2]/div[2]/div[2]/button
+69,None,NavigableString        
+70,button,Tag hint_back_edit button  secondary  fiftyfifty Cancel /html/body/div/div/div/div/div[2]/div[2]/div[2]/button[2]
+71,None,NavigableString        
+72,div,"Tag theloginform   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+UsernamePassword Caps Lock is on.Remember meForgot Your Password?Use Custom Domain /html/body/div/div/div/div/div[2]/div[3]"
+73,form,"Tag login_form   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+UsernamePassword Caps Lock is on.Remember me /html/body/div/div/div/div/div[2]/div[3]/form"
+74,fieldset,"Tag     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ /html/body/div/div/div/div/div[2]/div[3]/form/fieldset"
+75,None,NavigableString        
+76,input,Tag un_hfid     /html/body/div/div/div/div/div[2]/div[3]/form/fieldset/input
+77,None,NavigableString        
+78,input,Tag       /html/body/div/div/div/div/div[2]/div[3]/form/fieldset/input[2]
+79,None,NavigableString        
+80,input,Tag       /html/body/div/div/div/div/div[2]/div[3]/form/fieldset/input[3]
+81,None,NavigableString        
+82,input,Tag       /html/body/div/div/div/div/div[2]/div[3]/form/fieldset/input[4]
+83,None,NavigableString        
+84,input,Tag login_startUrl     /html/body/div/div/div/div/div[2]/div[3]/form/fieldset/input[5]
+85,None,NavigableString        
+86,input,Tag       /html/body/div/div/div/div/div[2]/div[3]/form/fieldset/input[6]
+87,None,NavigableString        
+88,input,Tag       /html/body/div/div/div/div/div[2]/div[3]/form/fieldset/input[7]
+89,None,NavigableString        
+90,input,Tag       /html/body/div/div/div/div/div[2]/div[3]/form/fieldset/input[8]
+91,None,NavigableString        
+92,input,Tag       /html/body/div/div/div/div/div[2]/div[3]/form/fieldset/input[9]
+93,None,NavigableString        
+94,input,Tag       /html/body/div/div/div/div/div[2]/div[3]/form/fieldset/input[10]
+95,None,NavigableString        
+96,input,Tag       /html/body/div/div/div/div/div[2]/div[3]/form/fieldset/input[11]
+97,None,NavigableString        
+98,input,Tag       /html/body/div/div/div/div/div[2]/div[3]/form/fieldset/input[12]
+99,None,NavigableString        
+100,input,Tag       /html/body/div/div/div/div/div[2]/div[3]/form/fieldset/input[13]
+101,None,NavigableString        
+102,input,Tag       /html/body/div/div/div/div/div[2]/div[3]/form/fieldset/input[14]
+103,None,NavigableString        
+104,input,Tag       /html/body/div/div/div/div/div[2]/div[3]/form/fieldset/input[15]
+105,None,NavigableString        
+106,input,Tag       /html/body/div/div/div/div/div[2]/div[3]/form/fieldset/input[16]
+107,None,NavigableString        
+108,input,Tag       /html/body/div/div/div/div/div[2]/div[3]/form/fieldset/input[17]
+109,None,NavigableString        
+110,input,Tag       /html/body/div/div/div/div/div[2]/div[3]/form/fieldset/input[18]
+111,None,NavigableString        
+112,div,Tag usernamegroup inputgroup Username /html/body/div/div/div/div/div[2]/div[3]/form/div
+113,label,Tag   label Username /html/body/div/div/div/div/div[2]/div[3]/form/div/label
+114,None,NavigableString        
+115,div,Tag username_container     /html/body/div/div/div/div/div[2]/div[3]/form/div/div
+116,div,Tag idcard-container mt8  mb16   /html/body/div/div/div/div/div[2]/div[3]/form/div/div/div
+117,div,Tag idcard     /html/body/div/div/div/div/div[2]/div[3]/form/div/div/div/div
+118,img,Tag idcard-avatar avatar   /html/body/div/div/div/div/div[2]/div[3]/form/div/div/div/div/img
+119,a,Tag clear_link clearlink   /html/body/div/div/div/div/div[2]/div[3]/form/div/div/div/div/a
+120,img,Tag   clearicon   /html/body/div/div/div/div/div[2]/div[3]/form/div/div/div/div/a/img
+121,span,Tag idcard-identity     /html/body/div/div/div/div/div[2]/div[3]/form/div/div/div/div/span
+122,input,Tag username input  r4  wide  mb16  mt8  username   /html/body/div/div/div/div/div[2]/div[3]/form/div/div/input
+123,label,Tag   label Password /html/body/div/div/div/div/div[2]/div[3]/form/label
+124,None,NavigableString        
+125,input,Tag password input  r4  wide  mb16  mt8  password   /html/body/div/div/div/div/div[2]/div[3]/form/input
+126,div,Tag pwcaps mb16  Caps Lock is on. /html/body/div/div/div/div/div[2]/div[3]/form/div[2]
+127,img,Tag pwcapsicon     /html/body/div/div/div/div/div[2]/div[3]/form/div[2]/img
+128,None,NavigableString        
+129,input,Tag Login button  r4  wide  primary   /html/body/div/div/div/div/div[2]/div[3]/form/input[2]
+130,div,Tag   w0  pr  ln3  p16  remember Remember me /html/body/div/div/div/div/div[2]/div[3]/form/div[3]
+131,input,Tag rememberUn r4  fl  mr8   /html/body/div/div/div/div/div[2]/div[3]/form/div[3]/input
+132,label,Tag   fl  pr  db  tn3 Remember me /html/body/div/div/div/div/div[2]/div[3]/form/div[3]/label
+133,None,NavigableString        
+134,br,Tag       /html/body/div/div/div/div/div[2]/div[3]/form/div[3]/br
+135,div,Tag   w0  links  bt  pt16  mb20 Forgot Your Password?Use Custom Domain /html/body/div/div/div/div/div[2]/div[3]/div
+136,a,Tag forgot_password_link fl  small Forgot Your Password? /html/body/div/div/div/div/div[2]/div[3]/div/a
+137,None,NavigableString        
+138,a,Tag mydomainLink fr  small Use Custom Domain /html/body/div/div/div/div/div[2]/div[3]/div/a[2]
+139,None,NavigableString        
+140,div,"Tag mydomainContainer   To go to your company's login page, enter the custom domain name.Custom Domainhttps://domain.my.salesforce.comContinueBack /html/body/div/div/div/div/div[2]/div[4]"
+141,p,"Tag   mb16 To go to your company's login page, enter the custom domain name. /html/body/div/div/div/div/div[2]/div[4]/p"
+142,None,NavigableString        
+143,form,Tag     Custom Domainhttps://domain.my.salesforce.com /html/body/div/div/div/div/div[2]/div[4]/form
+144,label,Tag   label Custom Domain /html/body/div/div/div/div/div[2]/div[4]/form/label
+145,None,NavigableString        
+146,input,Tag mydomain input  wide  focus  mt8  mb16   /html/body/div/div/div/div/div[2]/div[4]/form/input
+147,div,Tag mydomain_preview mb16  wordwrap https://domain.my.salesforce.com /html/body/div/div/div/div/div[2]/div[4]/form/div
+148,None,NavigableString        
+149,em,Tag     domain /html/body/div/div/div/div/div[2]/div[4]/form/div/em
+150,None,NavigableString        
+151,None,NavigableString        
+152,input,Tag mydomain_suffix     /html/body/div/div/div/div/div[2]/div[4]/input
+153,input,Tag community_suffix     /html/body/div/div/div/div/div[2]/div[4]/input[2]
+154,button,Tag mydomainContinue button  primary  fiftyfifty  right Continue /html/body/div/div/div/div/div[2]/div[4]/button
+155,None,NavigableString        
+156,button,Tag hint_back_domain button  secondary  fiftyfifty Back /html/body/div/div/div/div/div[2]/div[4]/button[2]
+157,None,NavigableString        
+158,div,Tag use_new_identity_div tc Log In with a Different Username /html/body/div/div/div/div/div[3]
+159,a,Tag use_new_identity   Log In with a Different Username /html/body/div/div/div/div/div[3]/a
+160,None,NavigableString        
+161,div,"Tag footer   © 2018 salesforce.com, inc. All rights reserved. | Privacy /html/body/div/div[2]"
+162,None,NavigableString        
+163,a,Tag privacy-link   Privacy /html/body/div/div[2]/a
+164,None,NavigableString        
+165,div,Tag right     /html/body/div[2]
+166,iframe,Tag marketing     /html/body/div[2]/iframe
+167,div,Tag assistive-announce zen-assistiveText Login /html/body/div[3]
+168,None,NavigableString        
+169,script,Tag     LoginHint.getSavedIdentities(false); /html/body/script
+170,None,NavigableString        
+171,script,Tag       /html/body/script[2]
+172,script,Tag       /html/body/script[3]
+173,script,"Tag     function handleLogin(){document.login.un.value=document.login.username.value;document.login.width.value=screen.width;document.login.height.value=screen.height;}function lazyload(){document.getElementById(""pwcapsicon"").src=""/img/icon/capslock_blue.png"";document.getElementById(""marketing"").src=""https://c.salesforce.com/login-messages/promos.html"";}loader(); /html/body/script[4]"
+174,None,NavigableString        
+175,None,NavigableString        
